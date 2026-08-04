@@ -1,14 +1,14 @@
-name = "<un nombre>"
-role = "<una especialidad o rol>"
+name = "Alejandro Guzmán"
+role = "Estudiante"
 intro = """
 <Escribe aquí una presentación breve: qué construyes, qué te interesa
 y qué tipo de problemas disfrutas resolver.>
 """
-email = "tu@email.com"
+email = "guzmancallepa@gmail.com"
 linkedin = "https://www.linkedin.com/in/tu-usuario/"
-github = "https://github.com/tu-usuario"
-website = "https://tu-sitio.com"
-location = "<tu ciudad o zona horaria>"
+github = "https://github.com/alej-gz"
+website = "https://alej-gz.vercel.app/"
+location = "BO"
 
 [[projects]]
 type = "<tipo de proyecto>"
